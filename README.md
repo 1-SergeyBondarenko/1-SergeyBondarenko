@@ -13,6 +13,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=1-SergeyBondarenko&theme=dark&show_icons=true&locale=en" alt="1-SergeyBondarenko" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1-SergeyBondarenko&theme=dark&show_icons=true&locale=en&layout=compact" alt="1-SergeyBondarenko" />
+</p>
+
 ### My Certificates
 <a target="_blank" rel="noopener noreferrer" href="https://stepik.org/cert/1519597"> Stepik.org: "Поколение Python": курс для начинающих </a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://vk.com/id32161886?z=photo32161886_457239076%2Falbum32161886_00%2Frev"> СберУниверситет: курс "Основы решения алгоритмических задач" </a><br>
