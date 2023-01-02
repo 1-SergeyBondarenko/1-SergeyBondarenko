@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Sergey Bondarenko
+<div id="header" align="center">
+	<h2>Hi, I’m Sergey Bondarenko</h2>
+</div>
+
 - 🌱 I’m currently learning to become a data engineer
 - 💞️ I’m looking to collaborate on this field
 - 📫 How to reach me: rabota732@mail.ru
