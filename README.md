@@ -12,10 +12,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-          
-          
-          
-          
+
+### My stat
+<div id="stat" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1-SergeyBondarenko&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1-SergeyBondarenko&theme=github_dark"/>      
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1-SergeyBondarenko&theme=github_dark"/>        
+ </div>         
           
 
 <!---
