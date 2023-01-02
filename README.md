@@ -13,6 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 
+<a target="_blank" rel="noopener noreferrer" href="https://stepik.org/cert/1519597"> 123 </a>
+
 ### My stat
 <div id="stat" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1-SergeyBondarenko&theme=github_dark"/>
